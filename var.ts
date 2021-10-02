@@ -1,2 +1,2 @@
-console.log(testVar);
-let testVar="hello";
+// console.log(testVar);
+// let testVar="hello";
