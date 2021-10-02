@@ -22,8 +22,11 @@
 // console.log(songs.concat(" Hey"));
 // console.log(songs.endsWith(" Hey"));
 
-let echoOne = new String("I am here");
-let echoTwo: string = ("I am Two!");
+// let echoOne = new String("I am here in the house, I am chilling in here in the house");
+// let echoTwo: string = ("I am Two!");
 
-console.log(echoOne.endsWith("?"));
-console.log(echoTwo.endsWith("!"));
+let para:string = 'The quick brown fox jumps over the lazy dog. If the dog barked, was it really lazy?';
+
+// console.log(echoOne.includes("am", 1));
+// console.log(echoTwo.endsWith("!"));
+console.log(para.lastIndexOf("dog"));
