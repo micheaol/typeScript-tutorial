@@ -15,6 +15,9 @@
 // let echoOne = new String("I am here in the house, I am chilling in here in the house");
 // let echoTwo: string = ("I am Two!");
 let para = 'The quick brown fox jumps over the lazy dog. If the dog barked, was it really lazy?';
-// console.log(echoOne.includes("am", 1));
-// console.log(echoTwo.endsWith("!"));
-console.log(para.lastIndexOf("dog"));
+// // console.log(echoOne.includes("am", 1));
+// // console.log(echoTwo.endsWith("!"));
+// console.log(para.lastIndexOf("dog"));
+// let numberArray = ['1','8','5','6','0','2'];
+// numberArray.sort((a,b) => a.localeCompare(b));
+console.log(para.replace('dog', "Cat"));
