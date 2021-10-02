@@ -11,6 +11,6 @@
 //6. Add your var initializer
 
 //Example:
-var cities:string[] = ['Lagos', 'Ibadan','India'];
+var cities:string[] = ['Lagos', 'Ibadan','India','Cameroon'];
 
 console.log(cities);

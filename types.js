@@ -8,5 +8,5 @@
 //5. Add "=" to assign value to your var
 //6. Add your var initializer
 //Example:
-var cities = ['Lagos', 'Ibadan', 'India'];
+var cities = ['Lagos', 'Ibadan', 'India', 'Cameroon'];
 console.log(cities);
